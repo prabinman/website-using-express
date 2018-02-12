@@ -1,0 +1,14 @@
+{
+  "name": "website-using-express",
+  "version": "1.0.0",
+  "description": "A website using express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "author": "Prabin Man Shrestha",
+  "license": "MIT"
+}
